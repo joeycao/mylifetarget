@@ -1,3 +1,6 @@
 {
-  "attachmentFolderPath": "Untitled"
+  "attachmentFolderPath": "./assets",
+  "newFileLocation": "current",
+  "newFileFolderPath": "ass",
+  "newLinkFormat": "relative"
 }

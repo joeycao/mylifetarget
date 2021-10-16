@@ -1,6 +1,5 @@
 [
   "obsidian-admonition",
-  "table-editor-obsidian",
   "better-word-count",
   "calendar",
   "cmenu-plugin",
@@ -26,5 +25,6 @@
   "recent-files-obsidian",
   "readwise-official",
   "obsidian-reminder-plugin",
-  "sliding-panes-obsidian"
+  "sliding-panes-obsidian",
+  "table-editor-obsidian"
 ]
