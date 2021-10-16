@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "0c444ea3118f91bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ac551234da0ab20",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecaec2e273d8c11d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddff4e61ef983ba2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea0b9e7a2171842d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c299555e1badf938",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d5b819bc337c16a",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f22e2719be031fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc0f30e31a5aae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bc4eede6b762a69",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af86912ec57925aa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "ffe8126fff96f252",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3ac551234da0ab20",
+  "lastOpenFiles": []
+}
