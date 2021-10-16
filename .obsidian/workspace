@@ -7,8 +7,11 @@
         "id": "3ac551234da0ab20",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "a. Navigation/Index.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,6 +52,14 @@
             "id": "0d5b819bc337c16a",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "794edd109ccbec45",
+            "type": "leaf",
+            "state": {
               "type": "recent-files",
               "state": {}
             }
@@ -73,6 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "a. Navigation/Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,12 +99,28 @@
             "id": "af86912ec57925aa",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "empty",
               "state": {}
             }
           },
           {
             "id": "ffe8126fff96f252",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdb1c8a190141963",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "8eccffc7df11900b",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -107,5 +135,8 @@
     "collapsed": true
   },
   "active": "3ac551234da0ab20",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "a. Navigation/Untitled.md",
+    "README.md"
+  ]
 }
