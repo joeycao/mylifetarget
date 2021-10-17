@@ -7,7 +7,6 @@
   "obsidian-dictionary-plugin",
   "obsidian-emoji-toolbar",
   "find-unlinked-files",
-  "flashcards-obsidian",
   "hotkeysplus-obsidian",
   "obsidian-kanban",
   "obsidian-mind-map",
@@ -15,8 +14,6 @@
   "note-refactor-obsidian",
   "obsidian-charts",
   "obsidian-git",
-  "obsidian-to-anki-plugin",
-  "obsidian-tabs",
   "obsidian-outliner",
   "url-into-selection",
   "oz-image-plugin",
@@ -26,5 +23,6 @@
   "readwise-official",
   "obsidian-reminder-plugin",
   "sliding-panes-obsidian",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "obsidian-nomnoml-diagram"
 ]

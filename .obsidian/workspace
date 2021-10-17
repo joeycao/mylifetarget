@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "3ac551234da0ab20",
+        "id": "386dee356f96411a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "c. Literature/英文/英文语法.md",
+            "file": "c. Literature/认知/精进/笔记法.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "abad277ffe06a963",
+        "id": "07a73a2d2a923eaf",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "c. Literature/英文/英文语法.md",
+            "file": "c. Literature/认知/精进/笔记法.md",
             "mode": "preview"
           }
         }
@@ -74,6 +74,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "fb9a1a402cb43567",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -95,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c. Literature/英文/英文语法.md",
+                "file": "c. Literature/认知/精进/笔记法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,25 +145,36 @@
               "type": "reminder-list",
               "state": {}
             }
+          },
+          {
+            "id": "33d94c56c16ad8b8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "c. Literature/认知/精进/笔记法.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "3ac551234da0ab20",
+  "active": "386dee356f96411a",
   "lastOpenFiles": [
-    "c. Literature/英文/英文语法.md",
-    "c. Literature/英文/知识点.md",
-    "c. Literature/英文/index.md",
-    "c. Literature/技术/语言/Vue/知识点.md",
-    "c. Literature/技术/语言/Vue/英文语法.md",
-    "c. Literature/技术/语言/Vue/Untitled.md",
-    "c. Literature/技术/建模/Untitled.md",
-    "c. Literature/英文/Untitled.md",
-    "a. Navigation/Untitled.md",
-    "README.md"
+    "c. Literature/认知/精进/笔记法.md",
+    "a. Navigation/Template/Untitled.md",
+    "a. Navigation/Template/模板.md",
+    "c. Literature/认知/精进/Untitled.md",
+    "a. Navigation/Template/任务看板.md",
+    "a. Navigation/Template/Notion 精读法.md",
+    "c. Literature/技术/语言/Vue/VUE原理理解.md",
+    "c. Literature/技术/语言/Vue/Vue3 组合函数.md",
+    "c. Literature/技术/语言/Vue/Vue 混合.md",
+    "c. Literature/技术/语言/Vue/Vue 装饰器.md"
   ]
 }
