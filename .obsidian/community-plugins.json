@@ -24,5 +24,7 @@
   "obsidian-reminder-plugin",
   "sliding-panes-obsidian",
   "table-editor-obsidian",
-  "obsidian-nomnoml-diagram"
+  "obsidian-nomnoml-diagram",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-excalidraw-plugin"
 ]

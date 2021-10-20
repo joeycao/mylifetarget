@@ -1,88 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "笔记法",
-      "path": "c. Literature/认知/精进/笔记法.md"
+      "basename": "Vue 组件间通信",
+      "path": "A.Projects/Vue/Vue 组件间通信.md"
     },
     {
-      "basename": "学习模板",
-      "path": "a. Navigation/Template/学习模板.md"
+      "basename": "Vue-Index",
+      "path": "A.Projects/Vue/Vue-Index.md"
     },
     {
-      "basename": "模板",
-      "path": "a. Navigation/Template/模板.md"
+      "basename": "Vue v-Model",
+      "path": "A.Projects/Vue/Vue v-Model.md"
     },
     {
-      "basename": "任务看板",
-      "path": "a. Navigation/Template/任务看板.md"
+      "basename": "Vue 生命周期管理",
+      "path": "A.Projects/Vue/Vue 生命周期管理.md"
     },
     {
-      "basename": "Notion 精读法",
-      "path": "a. Navigation/Template/Notion 精读法.md"
+      "basename": "Goal",
+      "path": "1.Index/Goal.md"
     },
     {
-      "basename": "VUE原理理解",
-      "path": "c. Literature/技术/语言/Vue/VUE原理理解.md"
+      "basename": "Content_Notes.md",
+      "path": "z. Templates/Content_Notes.md.md"
     },
     {
-      "basename": "Vue3 组合函数",
-      "path": "c. Literature/技术/语言/Vue/Vue3 组合函数.md"
+      "basename": "Project_Notes.md",
+      "path": "z. Templates/Project_Notes.md.md"
     },
     {
-      "basename": "Vue 混合",
-      "path": "c. Literature/技术/语言/Vue/Vue 混合.md"
-    },
-    {
-      "basename": "Vue 装饰器",
-      "path": "c. Literature/技术/语言/Vue/Vue 装饰器.md"
-    },
-    {
-      "basename": "康奈尔笔记",
-      "path": "a. Navigation/Template/康奈尔笔记.md"
-    },
-    {
-      "basename": "0.知识点",
-      "path": "c. Literature/技术/语言/Vue/0.知识点.md"
-    },
-    {
-      "basename": "原理",
-      "path": "a. Navigation/原理.md"
-    },
-    {
-      "basename": "核心组件",
-      "path": "c. Literature/技术/语言/Vue/核心组件.md"
-    },
-    {
-      "basename": "工程架构",
-      "path": "c. Literature/技术/语言/Vue/工程架构.md"
-    },
-    {
-      "basename": "0.知识点",
-      "path": "c. Literature/英文/0.知识点.md"
-    },
-    {
-      "basename": "学习英语语法",
-      "path": "c. Literature/英文/学习英语语法.md"
-    },
-    {
-      "basename": "常用动词学习",
-      "path": "c. Literature/英文/常用动词学习.md"
-    },
-    {
-      "basename": "2021-10-17",
-      "path": "2021-10-17.md"
+      "basename": "PARA",
+      "path": "1.Index/PARA.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "四色建模",
-      "path": "c. Literature/技术/建模/四色建模.md"
+      "basename": "笔记法",
+      "path": "C.Resources/认知/精进/笔记法.md"
     },
     {
-      "basename": "Index",
-      "path": "a. Navigation/Index.md"
+      "basename": "VUE原理理解",
+      "path": "C.Resources/技术/语言/Vue/VUE原理理解.md"
+    },
+    {
+      "basename": "Vue3 组合函数",
+      "path": "C.Resources/技术/语言/Vue/Vue3 组合函数.md"
+    },
+    {
+      "basename": "Vue 混合",
+      "path": "C.Resources/技术/语言/Vue/Vue 混合.md"
+    },
+    {
+      "basename": "Vue 装饰器",
+      "path": "C.Resources/技术/语言/Vue/Vue 装饰器.md"
+    },
+    {
+      "basename": "0.知识点",
+      "path": "C.Resources/技术/语言/Vue/0.知识点.md"
+    },
+    {
+      "basename": "核心组件",
+      "path": "C.Resources/技术/语言/Vue/核心组件.md"
+    },
+    {
+      "basename": "工程架构",
+      "path": "C.Resources/技术/语言/Vue/工程架构.md"
+    },
+    {
+      "basename": "0.知识点",
+      "path": "C.Resources/英文/0.知识点.md"
+    },
+    {
+      "basename": "学习英语语法",
+      "path": "C.Resources/英文/学习英语语法.md"
+    },
+    {
+      "basename": "常用动词学习",
+      "path": "C.Resources/英文/常用动词学习.md"
+    },
+    {
+      "basename": "四色建模",
+      "path": "C.Resources/技术/建模/四色建模.md"
     }
   ],
   "omittedPaths": [],

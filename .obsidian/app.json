@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "./assets",
+  "attachmentFolderPath": "z.Attachments",
   "newFileLocation": "current",
   "newFileFolderPath": "ass",
   "newLinkFormat": "relative",
