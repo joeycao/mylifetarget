@@ -4,26 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "623c7cf5fe6c5615",
+        "id": "a2c33d7e55167ec3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A.Projects/Vue/Vue 组件间通信.md",
+            "file": "1.Index/Fleeting/卡片笔记法.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "c9a692473e350b88"
       },
       {
-        "id": "325574ff74f8cb9b",
+        "id": "52e4a21bf1c94330",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A.Projects/Vue/Vue 生命周期管理.md",
+            "file": "1.Index/Fleeting/卡片笔记法.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "c9a692473e350b88"
       }
     ],
     "direction": "vertical"
@@ -57,14 +59,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "0d5b819bc337c16a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -103,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A.Projects/Vue/Vue 组件间通信.md",
+                "file": "1.Index/Fleeting/卡片笔记法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,22 +106,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "af86912ec57925aa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "ffe8126fff96f252",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -152,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A.Projects/Vue/Vue 组件间通信.md"
+                "file": "1.Index/Fleeting/卡片笔记法.md"
               }
             }
           },
@@ -165,23 +143,23 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "623c7cf5fe6c5615",
+  "active": "a2c33d7e55167ec3",
   "lastOpenFiles": [
-    "A.Projects/Vue/Vue 组件间通信.md",
-    "A.Projects/Vue/Vue-Index.md",
-    "A.Projects/Vue/Vue v-Model.md",
-    "A.Projects/Vue/Vue 生命周期管理.md",
+    "1.Index/Fleeting/卡片笔记法.md",
     "1.Index/Goal.md",
-    "z. Templates/Project_Notes.md 1.md",
-    "z. Templates/Project_Notes.md.md",
-    "A.Projects/Vue/Untitled.md",
-    "D.Archives/Untitled.md",
-    "1.Index/PARA.md"
+    "1.Index/Fleeting/单核工作法.md",
+    "1.Index/Fleeting/读书笔记.md",
+    "1.Index/Fleeting/创新思维.md",
+    "C.Resources/认知/精进/笔记法.md",
+    "C.Resources/认知/精进/assets/卡片笔记的原理.png",
+    "1.Index/Daily/1024 笔记.md",
+    "1.Index/Daily/2021-10-24.md",
+    "z. Templates/Content_Notes.md.md"
   ]
 }

@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Vue 组件间通信",
-      "path": "A.Projects/Vue/Vue 组件间通信.md"
-    },
-    {
-      "basename": "Vue-Index",
-      "path": "A.Projects/Vue/Vue-Index.md"
-    },
-    {
-      "basename": "Vue v-Model",
-      "path": "A.Projects/Vue/Vue v-Model.md"
-    },
-    {
-      "basename": "Vue 生命周期管理",
-      "path": "A.Projects/Vue/Vue 生命周期管理.md"
+      "basename": "卡片笔记法",
+      "path": "1.Index/Fleeting/卡片笔记法.md"
     },
     {
       "basename": "Goal",
       "path": "1.Index/Goal.md"
+    },
+    {
+      "basename": "单核工作法",
+      "path": "1.Index/Fleeting/单核工作法.md"
+    },
+    {
+      "basename": "读书笔记",
+      "path": "1.Index/Fleeting/读书笔记.md"
+    },
+    {
+      "basename": "创新思维",
+      "path": "1.Index/Fleeting/创新思维.md"
+    },
+    {
+      "basename": "笔记法",
+      "path": "C.Resources/认知/精进/笔记法.md"
+    },
+    {
+      "basename": "卡片笔记的原理",
+      "path": "C.Resources/认知/精进/assets/卡片笔记的原理.png"
+    },
+    {
+      "basename": "1024 笔记",
+      "path": "1.Index/Daily/1024 笔记.md"
+    },
+    {
+      "basename": "2021-10-24",
+      "path": "1.Index/Daily/2021-10-24.md"
     },
     {
       "basename": "Content_Notes.md",
@@ -33,12 +49,24 @@
       "path": "1.Index/PARA.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "Vue 生命周期管理",
+      "path": "A.Projects/Vue/Vue 生命周期管理.md"
     },
     {
-      "basename": "笔记法",
-      "path": "C.Resources/认知/精进/笔记法.md"
+      "basename": "Vue 组件间通信",
+      "path": "A.Projects/Vue/Vue 组件间通信.md"
+    },
+    {
+      "basename": "Vue-Index",
+      "path": "A.Projects/Vue/Vue-Index.md"
+    },
+    {
+      "basename": "Vue v-Model",
+      "path": "A.Projects/Vue/Vue v-Model.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "VUE原理理解",
